@@ -1,0 +1,40 @@
+{
+    "solicitacoes":[
+        {
+            "nome": "Anna Dantas",
+            "empresa": "Stefanini",
+            "email":"annadantas@gmail.com",
+            "dataD": "12/02/2023",
+            "horarioD": "15:30",
+            "tipo": "Oscilação na conexão",
+            "ocorrencia": "Preciso que retornem para consertar a conexão de rede. Urgente, pois trabalho em Home Office!"
+        },
+        {
+            "nome": "Diego Santiago",
+            "empresa": "NET",
+            "email":"diegodn@gmail.com",
+            "dataD": "15/03/2023",
+            "horarioD": "11:30",
+            "tipo": "Cabo de rede",
+            "ocorrencia": "O cabo de rede instalado parece estar danificado, solicito reparo!"
+        },
+        {
+            "nome": "Maurício Panini",
+            "empresa": "Stefanini",
+            "email":"maurrodrigues@gmail.com",
+            "dataD": "15/03/2023",
+            "horarioD": "14:00",
+            "tipo": "Conexão de computadores falha",
+            "ocorrencia": "Depois dos técnicos deixarem a rede farmacêutica, a rede de computadores continua com problemas de conexão!"
+        },
+        {
+            "nome": "Santana Faccini",
+            "empresa": "Microsoft",
+            "email":"santanadomingues@gmail.com",
+            "dataD": "17/05/2023",
+            "horarioD": "18:00",
+            "tipo": "Troca de peças",
+            "ocorrencia": "Após adquirir o notebook Surface Laptop 4, em 4 meses de uso apresentou defeitos na placa de vídeo. Necessita troca!"
+        }
+    ]
+}

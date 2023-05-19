@@ -1,0 +1,98 @@
+{
+  "pessoas": [
+    {
+      "nome": "Trinity Domingues",
+      "idade": "19",
+      "email": "trinity@gmail.com",
+      "senha": "12345",
+      "id": 1
+    },
+    {
+      "nome": "Ana Lúcia",
+      "idade": "24",
+      "email": "Ana@gmail.com",
+      "senha": "12345",
+      "id": 2
+    },
+    {
+      "nome": "Etrins",
+      "idade": "23",
+      "email": "etrins@gmail.com",
+      "senha": "12345",
+      "confsenha": "12345",
+      "id": 3
+    }
+  ],
+  "solicitacoes": [
+    {
+      "nome": "Anna Dimitri",
+      "empresa": "NET",
+      "email": "anna@gmail.com",
+      "data": "09-03-2023",
+      "horario": "18:00",
+      "tipo": "Conexão instável",
+      "ocorrencia": "Preciso que retornem para consertar a conexão de rede. Necessito reparo, pois trabalho em Home Office!",
+      "id": 1
+    },
+    {
+      "nome": "Trinity Domingues",
+      "empresa": "Stefanini",
+      "email": "trinity@gmail.com",
+      "data": "12-03-2023",
+      "horario": "13:00",
+      "tipo": "Falha na rede",
+      "ocorrencia": "Após o suporte técnico, a rede de computadores da linha farmacêutica continua em estado de standby. Solicito reparo!",
+      "id": 2
+    },
+    {
+      "nome": "Maurício Panini",
+      "empresa": "CLARO",
+      "email": "mauricio@gmail.com",
+      "data": "22-03-2023",
+      "horario": "10:00",
+      "tipo": "Cabo de rede",
+      "ocorrencia": "O cabo de rede parece estar danificado em toda a empresa. Solicito reparo!",
+      "id": 3
+    },
+    {
+      "nome": "Santana Faccini",
+      "empresa": "VIVO",
+      "email": "faccini@gmail.com",
+      "data": "09-03-2023",
+      "horario": "19:00",
+      "tipo": "Troca de Peças",
+      "ocorrencia": "Após adquirir o Laptop Surface 4, após 2 meses de uso apresentou defeitos na placa de vídeo. Necessita troca!",
+      "id": 4
+    },
+    {
+      "nome": "Carlos Drummond",
+      "empresa": "NET",
+      "email": "carlinhos@gmail.com",
+      "data": "2023-03-31",
+      "horario": "15:00",
+      "tipo": "Internet",
+      "ocorrencia": "Meu computador está com problema na internet, não consigo acessar!",
+      "id": 5
+    },
+    {
+      "nome": "Geovane Lins",
+      "empresa": "VIVO",
+      "email": "geo@gmail.com",
+      "data": "2023-03-14",
+      "horario": "12:00",
+      "tipo": "Conexão",
+      "ocorrencia": "Necessito de reparo na conexão do prédio todo!",
+      "id": 6
+    },
+    {
+      "nome": "fggf",
+      "empresa": "ffdfg",
+      "email": "",
+      "data": "",
+      "horario": "",
+      "tipo": "",
+      "ocorrencia": "",
+      "id": 7
+    }
+  ]
+}
